@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/zuraiz/Documents/GitHub/MLOPS-project/model_training/mlruns/0/731de42170114233b1900a183f032710/artifacts
+end_time: 1686501049360
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 731de42170114233b1900a183f032710
+run_name: nosy-gnat-389
+run_uuid: 731de42170114233b1900a183f032710
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1686501047767
+status: 3
+tags: []
+user_id: zuraiz
