@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/zuraiz/Documents/GitHub/MLOPS-project/model_training/mlruns/0/e1332a7c1d6b49dea0262dfd887c1c45/artifacts
+end_time: 1686501069870
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: e1332a7c1d6b49dea0262dfd887c1c45
+run_name: kindly-shrike-722
+run_uuid: e1332a7c1d6b49dea0262dfd887c1c45
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1686501068326
+status: 3
+tags: []
+user_id: zuraiz

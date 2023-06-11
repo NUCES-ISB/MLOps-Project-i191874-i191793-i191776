@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/zuraiz/Documents/GitHub/MLOPS-project/model_training/mlruns/0/ef0e66c3bc4445ffbece8aad961a266e/artifacts
+end_time: 1686500349799
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: ef0e66c3bc4445ffbece8aad961a266e
+run_name: delightful-hen-143
+run_uuid: ef0e66c3bc4445ffbece8aad961a266e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1686500348422
+status: 3
+tags: []
+user_id: zuraiz
