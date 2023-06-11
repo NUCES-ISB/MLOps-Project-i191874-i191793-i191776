@@ -1,0 +1,8 @@
+flask
+numpy
+scikit-learn
+pickle5
+mlflow
+apache-airflow
+dvc
+dvc-gdrive
