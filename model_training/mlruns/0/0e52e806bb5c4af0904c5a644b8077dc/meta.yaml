@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/zuraiz/Documents/GitHub/MLOPS-project/model_training/mlruns/0/0e52e806bb5c4af0904c5a644b8077dc/artifacts
+end_time: 1686501010598
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 0e52e806bb5c4af0904c5a644b8077dc
+run_name: serious-smelt-454
+run_uuid: 0e52e806bb5c4af0904c5a644b8077dc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1686501009021
+status: 3
+tags: []
+user_id: zuraiz

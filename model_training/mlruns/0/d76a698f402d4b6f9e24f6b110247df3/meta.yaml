@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/zuraiz/Documents/GitHub/MLOPS-project/model_training/mlruns/0/d76a698f402d4b6f9e24f6b110247df3/artifacts
+end_time: 1686501000731
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: d76a698f402d4b6f9e24f6b110247df3
+run_name: bold-sheep-66
+run_uuid: d76a698f402d4b6f9e24f6b110247df3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1686500999196
+status: 3
+tags: []
+user_id: zuraiz
